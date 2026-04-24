@@ -76,35 +76,6 @@ http://127.0.0.1:5000
 
 ---
 
-## 🧠 AI Model Type
-
-This agent is a **Model-Based Agent** because:
-
-- It keeps track of previous answers  
-- It updates its knowledge (remaining players)  
-- It makes decisions based on the current state  
-
----
-
-## 📊 ODESA Classification
-
-- **Observability:** Fully Observable  
-- **Deterministic:** Deterministic  
-- **Episodic:** Sequential  
-- **Static:** Static  
-- **Agent:** Multi-Agent (Competitive)  
-
----
-
-
-## 🧠 PEAS Model
-
-- **Performance:** Guess the player correctly and faster than the opponent  
-- **Environment:** Football players (Barcelona & Real Madrid) and yes/no questions  
-- **Actuators:** Asking questions and making guesses  
-- **Sensors:** Answers from player and AI (YES / NO)
-
-
 ## Team Members:
 - Mohamed Karam Mohamed
 - Mohamed Farid Mansour
