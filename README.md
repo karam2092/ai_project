@@ -105,7 +105,7 @@ This agent is a **Model-Based Agent** because:
 - **Sensors:** Answers from player and AI (YES / NO)
 
 
-Team:
+## Team Members:
 1.Mohamed Karam Mohamed
 2.Mohamed Farid Mansour
 3.Mohamed Farid El-sherbiny
