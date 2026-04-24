@@ -106,7 +106,7 @@ This agent is a **Model-Based Agent** because:
 
 
 ## Team Members:
-1.Mohamed Karam Mohamed
-2.Mohamed Farid Mansour
-3.Mohamed Farid El-sherbiny
+- Mohamed Karam Mohamed
+- Mohamed Farid Mansour
+- Mohamed Farid El-sherbiny
 
